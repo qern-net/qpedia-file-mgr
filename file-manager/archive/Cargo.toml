@@ -7,4 +7,4 @@ license = "Apache-2.0"
 [workspace]
 
 [dependencies]
-zip = { version = "2", default-features = false }
+zip = { version = "9", default-features = false }
